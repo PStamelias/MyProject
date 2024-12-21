@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "MyProject.Controllers.BasicController",
+    "Method": "GetSecondLargestIntofArray",
+    "RelativePath": "api/getSecondLargestIntofArray",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestObj",
+        "Type": "MyProject.Models.RequestObj",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyProject.Controllers.BasicController",
+    "Method": "RetrieveCountries",
+    "RelativePath": "api/retrieveCountries",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
