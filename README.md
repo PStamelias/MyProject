@@ -1,6 +1,9 @@
 ﻿WEB API PROJECT 
 This project is a RESTful API application written in ASP.NET Core
 
+
+
+
 Tools and Technologies Used
     • C# Programming Language
     • Microsoft Visual Studio
@@ -9,6 +12,13 @@ Tools and Technologies Used
     • Entity Framework Core
     • MS SQL Server
     • RestSharp(To implement the http call the following library was used )
+
+
+
+
+
+
+
 Instructions To Use
     •    git  clone URL
     •    Open Sql Server Management Studio and connect to localhost
